@@ -34,7 +34,13 @@ The flood simulation includes start, stop, reset, and water-level controls.
 
 Click the preview below to watch the complete demonstration.
 
-[![Watch the Smart Town Digital Twin demonstration](docs/screenshots/fire-simulation.png)](https://drive.google.com/file/d/1cHGjMZ37kdiw4taTTtS8iBT5iSTQ850G/view?usp=sharing)
+
+
+https://github.com/user-attachments/assets/a58d2fe9-db63-4fa7-98ca-ec43e30dafd1
+
+
+
+
 
 The video demonstrates the town environment, camera navigation, flood controls, and fire simulation.
 
